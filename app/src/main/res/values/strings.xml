@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Dynamic Security Provider</string>
+    <string name="title_provider_detail">Provider Detail</string>
+
+</resources>
